@@ -5,5 +5,5 @@ import react from "@vitejs/plugin-react";
 export default defineConfig({
   plugins: [react()],
   // Set `base` to your repo name if deploying to GitHub Pages, e.g. "/kartik-wedding-invitation/".
-  base: "./Kartik",
+  base: "./",
 });
